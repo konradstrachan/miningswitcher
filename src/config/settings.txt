@@ -1,0 +1,10 @@
+AltMinerEXE=D:\CryptoCurrency\KM\XMR\xmr-stak-cpu-nofee0.exe
+AltMinerParams= -c D:\CryptoCurrency\KM\XMR\config.txt
+#
+XMGMinerEXE=D:\CryptoCurrency\KM\xmg\avx2.exe
+XMGMinerParams= --algo=m7mhash --url=stratum+tcp://xmg.suprnova.cc:7128 --user=K1lo.w1 --pass=x --threads=8 --quiet
+XMGThreshold=12
+#
+CheckTimeMinutes=4
+#
+URLToParse=https://xmg.suprnova.cc/index.php?page=statistics&action=blocks
